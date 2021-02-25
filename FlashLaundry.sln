@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashLaundry", "FlashLaundry\FlashLaundry.csproj", "{A78C1C60-77C9-4248-A5E2-00E8A34040D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashLaundry", "FlashLaundry\FlashLaundry.csproj", "{E6D55306-4C0B-488E-B40A-52D2AAD587F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A78C1C60-77C9-4248-A5E2-00E8A34040D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A78C1C60-77C9-4248-A5E2-00E8A34040D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A78C1C60-77C9-4248-A5E2-00E8A34040D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A78C1C60-77C9-4248-A5E2-00E8A34040D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D55306-4C0B-488E-B40A-52D2AAD587F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D55306-4C0B-488E-B40A-52D2AAD587F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D55306-4C0B-488E-B40A-52D2AAD587F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D55306-4C0B-488E-B40A-52D2AAD587F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2CFDF237-C31F-4FFA-993F-DEB1219A1FA0}
+		SolutionGuid = {0FEA2127-EC45-4004-B40B-366633264F00}
 	EndGlobalSection
 EndGlobal
