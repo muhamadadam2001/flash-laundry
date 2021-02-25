@@ -1,0 +1,10 @@
+E:\FlashLaundry\FlashLaundry\bin\Debug\FlashLaundry.exe.config
+E:\FlashLaundry\FlashLaundry\bin\Debug\FlashLaundry.exe
+E:\FlashLaundry\FlashLaundry\bin\Debug\FlashLaundry.pdb
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.csprojAssemblyReference.cache
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.Form1.resources
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.Properties.Resources.resources
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.csproj.GenerateResource.cache
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.csproj.CoreCompileInputs.cache
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.exe
+E:\FlashLaundry\FlashLaundry\obj\Debug\FlashLaundry.pdb
